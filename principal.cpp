@@ -6,8 +6,7 @@ Correo: ibarra.luisalberto23@gmail.com*/
 
 #include<iostream>
 using namespace std;
-int main() {
-	cout << "hola mundo\n";
+int main() { 
 	cout << "Nombre: Luis Alberto Ibarra Calderon\n" <<
 		"C.I: 7467171 Ch.\n" <<
 		"C.U: 35-4620\n" <<
